@@ -4,7 +4,7 @@
 
 <br>
 
-<p>Welcome to my profile, I am Julian, back-end developper. 🧙‍♂️💻<br> Actually learning cyber security with google certificate. :book:📚</p>
+<p>Welcome to my profile, I am Julian, back-end developper. 🧙‍♂️💻<br> Learn cybersecurity with a Google certification. :book:📚</p>
 
 <h3>Languages and tools</h3>
 <p>
