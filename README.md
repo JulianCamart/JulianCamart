@@ -1,4 +1,4 @@
-<h1 align="center">Hello world, I am Julian </h1>
+<h1 align="center">printf("Hello world, I am Julian");<img src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/hi.gif" width="40" /></h1>
 
 <img align='right' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/bmo.gif" width="200" />
 
