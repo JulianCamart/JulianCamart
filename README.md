@@ -1,5 +1,7 @@
 <h1 align="center">Hello world, I am Julian </h1>
 
+<img align='right' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/bmo.gif" width="200" />
+
 <br>
 
 <p>Welcome to my profile, I am Julian, back-end developper. 🧙‍♂️💻<br> Actually learning cyber security with google certificate. :book:📚</p>
@@ -49,8 +51,12 @@
 <br>
 
 <h3>The things I like</h3>
+<img align='right' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/jake_skate.webp" width="300" />
 
-  - 🛹 Skating with my crew
-  - 📖 Learn skills
-  - 🎌 Japan animation / cartoon
-  - 🗺️ Travel
+- 🛹 Skating with my crew
+- 📖 Learn skills
+- 🎌 Japan animation / cartoon
+- 🗺️ Travel
+
+  <img align='left' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/bmo_skate.gif" width="175" />
+  
