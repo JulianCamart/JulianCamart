@@ -6,7 +6,10 @@
 
 <p>Welcome to my profile, I am Julian, back-end developper. 🧙‍♂️💻<br> Learn cybersecurity with a Google certification. :book:📚</p>
 
-<h3>Languages and tools</h3>
+<p>Passionate about IT, I naturally gravitated towards learning programming, I now wish to continue to enrich my knowledge of IT sciences by learning cyber security</p>
+<br>
+
+<h3>🛠️ Languages and tools</h3>
 <p>
   <img alt="Symfony" src="https://img.shields.io/badge/-Symfony-333333?style=flat-square&logo=symfony&logoColor=white" />
   <img alt="React" src="https://img.shields.io/badge/-React-087ea4?style=flat-square&logo=react&logoColor=white" />
@@ -42,21 +45,22 @@
   <img alt="Redis" src="https://img.shields.io/badge/-Reddis-dc382c?style=flat-square&logo=redis&logoColor=white" />
 </p>
 <br>
-<h3>Professional experiences</h3>
+
+  
+<h2>💼 Professional experiences</h2>
 
   - [BandofBoats :sailboat:](https://www.bandofboats.com)
   - [Farmitoo :tractor:](https://www.farmitoo.com)
-  - [CGI :office:](https://www.cgi.com)
-  
+  - [CGI :office:](https://www.cgi.com)   
 <br>
 
-<h3>The things I like</h3>
+<h2>🎮 The things I like</h2>
 <img align='right' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/jake_skate.webp" width="300" />
 
 - 🛹 Skating with my crew
 - 📖 Learn skills
+- 👨‍🍳 Cooking
 - 🎌 Japan animation / cartoon
-- 🗺️ Travel
 
   <img align='left' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/bmo_skate.gif" width="175" />
   
