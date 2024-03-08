@@ -4,10 +4,8 @@
 
 <br>
 
-<p>Welcome to my profile, I am Julian, back-end developper. 🧙‍♂️💻<br> Learn cybersecurity with a Google certification. :book:📚</p>
+<p>Welcome to my profile, I am Julian, full-stack developper. 🧙‍♂️💻<br> Currently learning cybersecurity with a Google certification. :book:📚</p>
 
-<p>Passionate about IT, I naturally gravitated towards learning programming, I now wish to continue to enrich my knowledge of IT sciences by learning cyber security</p>
-<br>
 
 <h3>🛠️ Languages and tools</h3>
 <p>
@@ -46,7 +44,13 @@
 </p>
 <br>
 
-  
+<h2>Why do I want to work in cybersecurity? 👨‍💻</h2>
+
+<p>Passionate about IT, I naturally gravitated towards learning programming, I now want to continue to enrich my knowledge in computer science by learning cybersecurity.</p>
+<p>Highly motivated to collaborate with passionate people who want to share their expertise.</p>
+<p>I would like to use my technical programming skills while learning how to use vulnerability detection tools to help your organization be more protected and secure. 🔐</p>
+<br>
+
 <h2>💼 Professional experiences</h2>
 
   - [BandofBoats :sailboat:](https://www.bandofboats.com)
