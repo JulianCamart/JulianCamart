@@ -44,11 +44,11 @@
 </p>
 <br>
 
-<h2>Why do I want to work in cybersecurity? 👨‍💻</h2>
+<h2>👨‍💻 Why do I want to work in cybersecurity?</h2>
 
-<p>Passionate about IT, I naturally gravitated towards learning programming, I now want to continue to enrich my knowledge in computer science by learning cybersecurity.</p>
+<p>Passionate about IT, I naturally gravitated towards learning programming, I want to continue to enrich my knowledge in computer science by learning cybersecurity.</p>
 <p>Highly motivated to collaborate with passionate people who want to share their expertise.</p>
-<p>I would like to use my technical programming skills while learning how to use vulnerability detection tools to help your organization be more protected and secure. 🔐</p>
+<p>I would like to use my technical programming skills while learning how to use vulnerability detection and analysis tools to help your organization be more protected and secure. 🔐</p>
 <br>
 
 <h2>💼 Professional experiences</h2>
