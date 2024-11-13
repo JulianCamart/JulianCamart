@@ -61,9 +61,11 @@
 <h2>🎮 The things I like</h2>
 <img align='right' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/jake_skate.webp" width="300" />
 
-- 🛹 Skating with my crew
+- 🛹 Skateboarding
 - 📖 Learn skills
 - 👨‍🍳 Cooking
+- ♟️ Chess
+- 🎚️🎛️🎚️ Music mix/mao
 - 🎌 Japan animation / cartoon
 
   <img align='left' src="https://raw.githubusercontent.com/JulianCamart/JulianCamart/main/images/bmo_skate.gif" width="175" />
